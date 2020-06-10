@@ -1,0 +1,20 @@
+{
+  "ignition": {
+    "version": "3.0.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "sudo",
+          "docker"
+        ],
+        "name": "core",
+        "passwordHash": "E$1$rlCJvaPl$aBfQyopyU42SDW6Tfcmf./",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAgEA88JMHdAP5Ur4Od36HIPX7z4rBvNry3re7e6GZAzhlbQcFGKKlxi1j0uYaBHu8ww4EW7FpZNlTjacrtIzxdXEJ4Irhvg4+wl1+qOf0YX7m8lI2bmt8LjozMvy+oGKmkmSLCzgaXVuEHvcWmXhXso3D8kL+VDG9RwgUH50/X2RA2/z1d7jHDhpwcNCZtnGjTMDCJSXhK+86X4xSPNnSUfDOdAdKaT0LgWgtMixqHVB4QWXVY4ny73zHzz/uhIV9S1P0qkypTj33IkwatjKzDjO0bw6ZEvIU/rb+0fKVVJ+C5SgHP0BXCw7ePYlpv/CgGfwzFcXd7yuVwhcldHldhMep7w0d0Pu/oBRsdwHps8JDu5jRspchBg1i969FK0AUuaFoA241koqSEAOtPvTzFZEXUHlPKA3hkz/Fwbm95RGOKUROnhwDdRTgo/VXPyCJjUJ5ploZKxhe6/PMx09OKiyu+ZrC8Z1QrKLapS3KNMEj/26BfYNXkIJwhKcQ06wAqlbbDCNO/v06fnoDXSJ+pFdmsUIh98sTnqZDMu3Z8+bsnsV93Pe7h2Xxy4nCNZEr0tA4KYQuT6v8sTr4dkDt32HYuahs8UzZ0VPb0WTumnjjZhs20mZUwI4qicZL70h5Y3iZ7OyOAeiT1jU7eTVqU3qrUU/5Ba1ZazAyeB9BT8iBTM= rsa-key-20200610"
+        ]
+      }
+    ]
+  }
+}
